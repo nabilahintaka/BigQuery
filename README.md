@@ -22,7 +22,7 @@ data is accessed from BigQuery under the following conditions:
 - Able to apply JOIN
 
 ---
-## Cases
+# Cases
 
 You are a Data Analyst at an e-commerce company "The Look". You are asked to retrieve data from the Google BigQuery database.
 
