@@ -22,7 +22,7 @@ data is accessed from BigQuery under the following conditions:
 - Able to apply JOIN
 
 ---
-
+# Cases
 You are a Data Analyst at an e-commerce company "The Look". You are asked to retrieve data from the Google BigQuery database.
 
 1. Provide a table of the number of transactions per day (date based on `created_at`) during the Look's operation (sort from the smallest date).<br />
