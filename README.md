@@ -6,7 +6,7 @@ This is a repository to showcase my data analytics skills and projects that i ge
 
 data is accessed from BigQuery under the following conditions:
 
-  - **Database**: `bigquery-public-data.thelook_ecommerce`, can directly access the link [this](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=thelook_ecommerce).
+  - **Database**: `bigquery-public-data.thelook_ecommerce`, can directly access the link [here](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=thelook_ecommerce).
   - **Tabel**     : **JUST** using table `orders`,`order_items`,`products`, and `users`.
       - `orders` contains transaction data.
       - `order_items` contains item data in one transaction (connector too `products`). 
